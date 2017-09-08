@@ -1,6 +1,3 @@
-div {
-    height: 100px;
-    width: 500px;
 
 .box {
   min-height: 100px;
@@ -26,6 +23,10 @@ div {
 
 .gold {
 	background-color: #D4AF37;
+	width:20%;
+	height:50%;
+	display: inline-block;
+        float: left;
 }
 
 .black {
