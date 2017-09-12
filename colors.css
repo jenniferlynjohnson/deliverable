@@ -37,8 +37,8 @@ Try it Yourself »
 
 .black {
 	background-color: #000000;
-	width:100%;
+	width:50%;
 	height:80px;
 	display: inline-block;
-        float: right;
+        float: left;
 }
