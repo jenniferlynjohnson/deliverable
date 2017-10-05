@@ -1,0 +1,93 @@
+body {
+	background-color: white ;
+  background-size: 1900px 1000px;
+  background-image: url();
+ 
+}
+h1 {
+ color: Black;
+	text-align: center;
+ font-size: 50px;
+}
+
+ul{
+ list-style-type; 44px;
+ padding: 0;
+ overflow: hidden;
+ background-color: white; 
+ border: 5px dotted;
+ float: center;
+ 
+}
+
+p {
+ color: black;
+	font-family: "Impact";
+	font-size: 25px;
+ margin: auto;
+ margin: 10px 150px 10px 150px
+}
+ 
+nav li {
+	display: inline-block;
+}
+ 
+nav ul {
+	text-align: left;
+}
+ 
+nav.block-element ul {
+	display: block;
+	margin: auto;
+	width: 50%;
+} 
+ 
+ul {
+	list-style-type: none;
+	overflow: hidden;
+	background-color: #222;
+ text-align: center;
+ text-align: center;
+ display:flex;
+ justify-content: center;
+}
+li {
+	float: left;
+}
+
+li a {
+	display: inline-block;
+	color: white;
+	text-align: right;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+li a:hover {
+	background-color: #999;
+}
+li{
+}
+li a {
+display: inline-block;
+color: white;
+text-align: right;
+padding: 25px
+text-decoration: none;
+}
+.oneblock {
+ background-color:black;
+ height:300px;
+ width: 100%;
+}
+<br>
+<br>
+<br>
+<br>
+<br>
+.twoblock {
+ background-image: url(https://wallpaperscraft.com/download/light_rain_glass_drops_glare_76380/3840x2400#)
+ height:200px;
+ width: 100%;
+}
+
+
